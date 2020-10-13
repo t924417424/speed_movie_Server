@@ -7,7 +7,7 @@
 一个flutter学习项目，一个简单的影视系统服务端  
 项目资源全部来源于网络，本地不存储任何资源
 
-- [Flutter编写的Client端](https://flutter.dev/docs/get-started/codelab)
+- [Flutter编写的Client端](https://github.com/t924417424/speed_movie)
 
 项目依赖于Redis，如需修改请查看[Util/Redis/cache.go](./Util/Redis/cache.go)
 
